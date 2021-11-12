@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:iris="http://service.iris.edu/fdsnws/event/1/" xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance">
+  <eventParameters publicID="smi:service.iris.edu/fdsnws/event/1/query">
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=1916079">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=3788623</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=18508217</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="705">
+        <text>OFF W COAST OF NORTHERN SUMATRA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=3788623" iris:contributorOriginId="7900012" iris:contributor="ISC" iris:contributorEventId="7453151" iris:catalog="ISC">
+        <time>
+          <value>2004-12-26T00:58:52.050000Z</value>
+        </time>
+        <latitude>
+          <value>3.4125</value>
+        </latitude>
+        <longitude>
+          <value>95.9012</value>
+        </longitude>
+        <depth>
+          <value>26100.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=18508217">
+        <mag>
+          <value>9.0</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>HRVD</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+  </eventParameters>
+</q:quakeml>
