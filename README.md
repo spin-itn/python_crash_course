@@ -1,13 +1,10 @@
 # SPIN (Pre-)Workshop: Python & Obspy Crash Course
 
-Structure:
-
-- Part A (Python): Presentation by me, questions welcome at any time. You can follow along in your own notebook, but not necessary.
-- Part B (Obspy): Short introduction, and an exercise for you to work on after. Suggest to work in groups, I and helpers will go from room to room to be available for questions and support.
+This repository contains material (notebooks and data) for the Python & Obspy crash course that will be held on 2021-11-18/19 as part of the SPIN [spin-itn.eu](https://spin-itn.eu) project.
 
 **Part A (Python tips & tricks)**: The questionnaire has shown that all of you have at least some experience with Python. Therefore, I will not go over the **very** basics and will instead present a few helpful concepts, tips and tricks that you may not yet be aware of.
 
-**Part B (Obspy)**: Some of you have experience with obspy, while others do not. I will present the basic ideas and data structures of obspy. Then we will get some data. And you'll have time to experiment with this yourself.
+**Part B (Obspy)**: Some of you have experience with obspy, while others do not. I will present the basic ideas and data structures of obspy. Then we will download some data, and you'll have time to experiment with this yourself.
 
 **What this course will not cover**: The basics of Python (how to define numbers, functions, etc. ). More advanced topics, such optimization of code for performance or parallelisation; code architecture; topics related to logistics, e.g., accessing and running code on a server; managing python environments
 
